@@ -1,4 +1,4 @@
-# qaa-automation-fe
+# zen-hr-task
 
 # for run the test please using npm with the below command link
  npm run cy:run_test
