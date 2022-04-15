@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://zenhr-master.staging2.devops.zenhr.com/",
+  "pageLoadTimeout": 60000,
+  "viewportWidth": 1400,
+  "ensureScrollable": false,
+  "viewportHeight": 960,
+  "defaultCommandTimeout": 6000,
+  "testFiles":  "**/*.feature",
+  "screenshotOnRunFailure": true,
+  "env": {
+    "allure": true,
+    "allureResultsPath": "cypress/integration/results/allure"
+  }
+}
